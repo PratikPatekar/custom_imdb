@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/custom_imdb/static/css/main.94202582.chunk.css",
+    "main.js": "/custom_imdb/static/js/main.cd22ec48.chunk.js",
+    "main.js.map": "/custom_imdb/static/js/main.cd22ec48.chunk.js.map",
+    "runtime-main.js": "/custom_imdb/static/js/runtime-main.e1301688.js",
+    "runtime-main.js.map": "/custom_imdb/static/js/runtime-main.e1301688.js.map",
+    "static/js/2.e092edd9.chunk.js": "/custom_imdb/static/js/2.e092edd9.chunk.js",
+    "static/js/2.e092edd9.chunk.js.map": "/custom_imdb/static/js/2.e092edd9.chunk.js.map",
+    "index.html": "/custom_imdb/index.html",
+    "service-worker.js": "/custom_imdb/service-worker.js",
+    "service-worker.js.map": "/custom_imdb/service-worker.js.map",
+    "static/css/main.94202582.chunk.css.map": "/custom_imdb/static/css/main.94202582.chunk.css.map",
+    "static/js/2.e092edd9.chunk.js.LICENSE.txt": "/custom_imdb/static/js/2.e092edd9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1301688.js",
+    "static/js/2.e092edd9.chunk.js",
+    "static/css/main.94202582.chunk.css",
+    "static/js/main.cd22ec48.chunk.js"
+  ]
+}
